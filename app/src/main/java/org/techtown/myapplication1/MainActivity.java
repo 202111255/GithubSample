@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         //A 개발자가 B에게 푸시를 날린다.
         //재시도
+        //재시도2
     }
 }
